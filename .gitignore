@@ -1,0 +1,11 @@
+# Never commit collected data (inventory results, AD exports, scans)
+results/
+*-results/
+*.csv
+*.xml
+*.gnmap
+*.nmap
+gpo-report.html
+dcdiag*.txt
+repadmin*.txt
+*.zip
